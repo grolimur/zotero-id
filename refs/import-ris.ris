@@ -1,0 +1,159 @@
+TY  - JOUR
+TI  - Commentary to Gusenbauer and Haddaway 2020: Evaluating retrieval qualities of Google Scholar and PubMed
+AU  - Klopfenstein, D. V.
+AU  - Dampier, Will
+T2  - Research Synthesis Methods
+AB  - We read with considerable interest the study by Gusenbauer and Haddaway (Gusenbauer and Haddaway, 2020, Research Synthesis Methods, doi:10.1002/jrsm.1378) comparing the systematic search qualities of 28 search systems, including Google Scholar (GS) and PubMed. Google Scholar and PubMed are the two most popular free academic search tools in biology and chemistry, with GS being the number one search tool in the world. Those academics using GS as their principal system for literature searches may be unaware of research which enumerates five critical features for scientific literature tools that greatly influenced Gusenbauer's 2020 study. Using this list as the framework for a targeted comparison between just GS and PubMed, we found stark differences which overwhelmingly favored PubMed. In this comment, we show that by comparing the characteristics of the two search tools, features that are particularly useful in one search tool, but are missing in the other, are strikingly spotlighted. One especially popular feature that ubiquitously appears in GS, but not in PubMed, is the forward citation search found under every citation as a clickable Cited by N link. We seek to improve the PubMed search experience using two approaches. First, we request that PubMed add Cited by N links, making them as omnipresent as the GS links. Second, we created an open-source command-line tool, pmidcite, which is used alongside PubMed to give information to researchers to help with the choice of the next paper to examine, analogous to how GS's Cited by N links help to guide users. Find pmidcite at https://github.com/dvklopfenstein/pmidcite.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1002/jrsm.1456
+DP  - Wiley Online Library
+VL  - 12
+IS  - 2
+SP  - 126
+EP  - 135
+LA  - en
+SN  - 1759-2887
+ST  - Commentary to Gusenbauer and Haddaway 2020
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1002/jrsm.1456
+Y2  - 2021/04/07/16:42:41
+L1  - https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jrsm.1456
+L2  - https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1456
+ER  - 
+
+TY  - NEWS
+TI  - WhatsApp, la farce tourne au ridicule
+AU  - Seydtaghia, Anouch
+T2  - Le Temps
+AB  - Contrairement à ce qu'elle avait initialement affirmé, la messagerie ne prétéritera pas les utilisateurs qui n'acceptent pas les nouvelles conditions générales
+CY  - Genève
+DA  - 2021/05/30/T12:24:00
+PY  - 2021
+DP  - www.letemps.ch
+LA  - fr
+SN  - 1423-3967
+UR  - https://www.letemps.ch/economie/whatsapp-farce-tourne-ridicule
+Y2  - 2021/06/03/05:55:57
+L2  - https://www.letemps.ch/economie/whatsapp-farce-tourne-ridicule
+KW  - Technologies
+ER  - 
+
+TY  - THES
+TI  - "Predatory" Journals: An Evidence-Based Approach To Characterizing Them and Considering Where Research Ought to Be Published
+AU  - Shamseer, Larissa
+CY  - Ottawa
+DA  - 2021/03/03/
+PY  - 2021
+DP  - ruor.uottawa.ca
+SP  - 288
+LA  - en
+M3  - Thesis
+PB  - Université d'Ottawa / University of Ottawa
+ST  - "Predatory" Journals
+UR  - http://ruor.uottawa.ca/handle/10393/41858
+Y2  - 2021/06/08/09:55:22
+L1  - http://ruor.uottawa.ca/bitstream/10393/41858/1/Shamseer_Larissa_2021_thesis.pdf
+L2  - https://ruor.uottawa.ca/handle/10393/41858
+KW  - #à lire 📖
+ER  - 
+
+TY  - JOUR
+TI  - Low-Cost High-Impact Makerspaces at the Rutgers University Art Library
+AU  - Lotts, Megan
+T2  - Art Documentation: Journal of the Art Libraries Society of North America
+AB  - There has been a resurgence of the do-it-yourself movement in the twenty-first century. As a result, libraries are becoming laboratories in which students learn to think, explore, and meet other like-minded individuals outside the classroom. Although makerspaces in public libraries have received much attention, many academic, museum, and special libraries are seeing the benefits as well. Makerspaces provide opportunities for self-driven hands-on learning that encourages creative thinking and builds problem-solving skills. This article describes the benefits of makerspaces for art libraries, highlights art libraries where “making” is happening, and provides practical examples of ways libraries can create high-impact low-cost makerspaces that engage and educate their communities.
+DA  - 2017///
+PY  - 2017
+DO  - 10.1086/694249
+DP  - journals.uchicago.edu (Atypon)
+VL  - 36
+IS  - 2
+SP  - 345
+EP  - 362
+LA  - en
+SN  - 0730-7187
+UR  - https://www.journals.uchicago.edu/doi/10.1086/694249
+Y2  - 2021/10/29/07:05:57
+KW  - #à lire 📖
+ER  - 
+
+TY  - BOOK
+TI  - Utile, utilisable, désirable : Redessiner les bibliothèques pour leurs utilisateurs
+AU  - Etches, Amanda
+AU  - Schmidt, Aaron
+T2  - La Numérique
+A4  - Clot, Nathalie
+AB  - Useful, usable, desirable, publié par l’American Library Association (ALA) en 2014, est à la fois un manifeste et un guide pratique, proche du livre de recettes, résolument centré sur l’utilisateur des bibliothèques et qui permet de faire une auto-évaluation de son propre établissement et d’engager des chantiers d’amélioration des services aux publics. Écrit dans un style très proche du guide touristique, interpellant le lecteur, il a pour ambition de s’adresser à tout professionnel des bibliothèques, quels que soient son grade, sa nationalité et l’établissement dans lequel il travaille.
+CY  - Villeurbanne
+DA  - 2017///
+PY  - 2017
+DP  - OpenEdition Books
+SP  - 258
+LA  - fr
+PB  - Presses de l’enssib
+SN  - 978-2-37546-053-5
+ST  - Utile, utilisable, désirable
+UR  - http://books.openedition.org/pressesenssib/1537
+Y2  - 2021/10/29/06:25:02
+KW  - #à lire 📖
+KW  - bibliothèques universitaires
+KW  - design participatif
+KW  - évaluations
+KW  - expériences utilisateurs
+ER  - 
+
+TY  - MGZN
+TI  - Jouons avec les tendances des requêtes de recherche de Google Trends en Python
+AU  - Colombo, Tristan
+T2  - GNU/Linux Magazine France
+DA  - 2020/10//
+PY  - 2020
+IS  - 241
+SP  - 14
+EP  - 22
+LA  - fr
+UR  - https://connect.ed-diamond.com/GNU-Linux-Magazine/glmf-241/jouons-avec-les-tendances-des-requetes-de-recherche-de-google-trends-en-python
+Y2  - 2021/10/26/12:29:48
+L2  - https://connect.ed-diamond.com/GNU-Linux-Magazine/glmf-241/jouons-avec-les-tendances-des-requetes-de-recherche-de-google-trends-en-python
+KW  - #à lire 📖
+ER  - 
+
+TY  - CHAP
+TI  - Recommendation Systems for Personalized Technology-Enhanced Learning
+AU  - Khribi, Mohamed Koutheaïr
+AU  - Jemni, Mohamed
+AU  - Nasraoui, Olfa
+T2  - Ubiquitous Learning Environments and Technologies
+A2  - Kinshuk
+A2  - Huang, Ronghuai
+T3  - Lecture Notes in Educational Technology
+CY  - Berlin, Heidelberg
+DA  - 2015///
+PY  - 2015
+DP  - DOI.org (Crossref)
+SP  - 159
+EP  - 180
+LA  - en
+PB  - Springer Berlin Heidelberg
+SN  - 978-3-662-44658-4
+UR  - http://link.springer.com/10.1007/978-3-662-44659-1_9
+Y2  - 2021/10/31/08:02:29
+KW  - #à lire 📖
+KW  - ffhs-mooc-tbal1
+ER  - 
+
+TY  - VIDEO
+TI  - Lesson: Adaptive learning
+AU  - Moodle
+AB  - One of a playlist of Learn Moodle Extra screencasts, taking you one step beyond the Learn Moodle Basics MOOC and preparing you for further training.
+DA  - 2018/07/30/
+PY  - 2018
+DP  - YouTube
+LA  - en
+PB  - Youtube
+ST  - Lesson
+UR  - https://www.youtube.com/watch?v=PEPGNaXZNSI
+Y2  - 2021/10/31/08:37:40
+KW  - ffhs-mooc-tbal1
+ER  - 
+
