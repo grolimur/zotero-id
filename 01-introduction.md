@@ -1,4 +1,3 @@
-
 # Introduction
 
 Il existe beaucoup de logiciels de gestion de références bibliographiques sur le marché, mais un petit nombre est très utilisé par les étudiant·e·s, enseignant·e·s, chercheur·euse·s du monde entier.
@@ -7,18 +6,18 @@ Même si le choix du logiciel dépend des gens avec qui on travaille, vous trouv
 
 ## Comparaison des logiciels de gestion de références bibliographiques
 
-| ![logo BibTeX](img/refman_bibtex.png) | ![logo EndNote](img/refman_endnote.jpg) | ![logo Mendeley](img/refman_mendeley.png) | ![logo ReadCube](img/refman_readcube.png) | ![logo Zotero](img/refman_zotero.png) |
-| :----: | :-----: | :------: | :------: | :----: |
-| BibTeX | EndNote | Mendeley | Papers/ReadCube | Zotero |
-| logiciel libre | propriété de<br/>Clarivate Analytics | propriété de<br/>Elsevier | propriété de<br/>Digital Science (Springer Nature) | logiciel libre |
-| gratuit | CHF 273.70\* | gratuit\** | \$60/an\*** | gratuit\**** |
-| ![](img/os_windows.png)![](img/os_mac.png)![](img/os_linux.png) | ![](img/os_windows.png)![](img/os_mac.png) | ![](img/os_windows.png)![](img/os_mac.png)![](img/os_linux.png) | ![](img/os_windows.png)![](img/os_mac.png) | ![](img/os_windows.png)![](img/os_mac.png)![](img/os_linux.png) |
-| intégré à<br/><br/><br/>LaTeX | intégré à<br/>Word<br/>LibreOffice<br/>(LaTeX) | intégré à<br/>Word<br/>LibreOffice<br/>(LaTeX) | intégré à<br/>Word<br/>LibreOffice<br/>(LaTeX) | intégré à<br/>Word<br/>LibreOffice<br/>LaTeX |
-| ???<br/>styles de citation  | 7'300+<br/>styles de citation  | 10'000+<br/>styles de citation  | 10'000+<br/>styles de citation  | 10'000+<br/>styles de citation  |
+| ![logo BibTeX](img/refman_bibtex.png)                           | ![logo EndNote](img/refman_endnote.jpg)        | ![logo Mendeley](img/refman_mendeley.png)                       | ![logo ReadCube](img/refman_readcube.png)          | ![logo Zotero](img/refman_zotero.png)                           |
+|:---------------------------------------------------------------:|:----------------------------------------------:|:---------------------------------------------------------------:|:--------------------------------------------------:|:---------------------------------------------------------------:|
+| BibTeX                                                          | EndNote                                        | Mendeley                                                        | Papers/ReadCube                                    | Zotero                                                          |
+| logiciel libre                                                  | propriété de<br/>Clarivate Analytics           | propriété de<br/>Elsevier                                       | propriété de<br/>Digital Science (Springer Nature) | logiciel libre                                                  |
+| gratuit                                                         | CHF 273.70\*                                   | gratuit\**                                                      | \$60/an\***                                        | gratuit\****                                                    |
+| ![](img/os_windows.png)![](img/os_mac.png)![](img/os_linux.png) | ![](img/os_windows.png)![](img/os_mac.png)     | ![](img/os_windows.png)![](img/os_mac.png)![](img/os_linux.png) | ![](img/os_windows.png)![](img/os_mac.png)         | ![](img/os_windows.png)![](img/os_mac.png)![](img/os_linux.png) |
+| intégré à<br/><br/><br/>LaTeX                                   | intégré à<br/>Word<br/>LibreOffice<br/>(LaTeX) | intégré à<br/>Word<br/>LibreOffice<br/>(LaTeX)                  | intégré à<br/>Word<br/>LibreOffice<br/>(LaTeX)     | intégré à<br/>Word<br/>LibreOffice<br/>LaTeX                    |
+| ???<br/>styles de citation                                      | 7'300+<br/>styles de citation                  | 10'000+<br/>styles de citation                                  | 10'000+<br/>styles de citation                     | 10'000+<br/>styles de citation                                  |
 
-\* prix pour les étudiants: CHF 126.97 (en Suisse)   
+\* prix pour les étudiant·e·s: CHF 126.97 (en Suisse)   
 \** gratuit pour 2 Go d'espace de stockage personnel et jusqu'à 25 membres dans , [payant pour plus d'espace](https://www.mendeley.com/settings/upgrade/) [login requis!] et [des groupes privés](https://service.elsevier.com/app/answers/detail/a_id/18224/supporthub/mendeley/kw/groups/p/16075/)   
-\*** prix pour les étudiants: \$36/an   
+\*** prix pour les étudiant·e·s: \$36/an   
 \**** gratuit pour 300 Mo de stockage, [payant pour plus d'espace](https://www.zotero.org/storage?id=storage)   
 
 ## Pourquoi utiliser un logiciel de gestion de références bibliographiques ?

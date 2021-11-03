@@ -22,4 +22,5 @@ L'espace de stockage du groupe sur les serveurs de Zotero est comptabilisé sur 
 Lorsqu'un nouveau membre est admis dans un groupe, il a par défaut le rôle de membre.
 
 ---
+
 *notes personnelles*

@@ -30,7 +30,15 @@ Les marqueurs sont des mots-clés choisis librement que vous pouvez ajouter à v
 
 ![](img/organiser-marqueurs.png)
 
+Il est possible de définir une couleur et un raccourci clavier pour 9 marqueurs (p.ex. les plus utilisés). Pour ce faire, rendez-vous dans le sélecteur de marqueurs (en bas à gauche, en-dessous des collections et sous-collections). S'il n'apparaît pas, affichez-le en allant dans `Affichage` > `Mise en page` > `Sélecteur de marqueurs`.
 
+![](img/organiser-marqueurs-couleurs.PNG)
+
+Faites `clic-droit` sur un marqueur > `Attribuer une couleur...`. Vous pouvez alors choisir une couleur et un chiffre de 1 à 9 qui servira de raccourci clavier.
+
+![](img/organiser-marqueurs-couleurs-configuration.PNG)
+
+C'est très pratique pour voir ressortir les documents que vous devez encore lire p.ex.
 
 ## Recherches enregistrées
 
@@ -66,7 +74,6 @@ Notez que Zotero ne fusionne pas un article avec un rapport. Les documents doive
 
 ## Annotations
 
-
 ### exercice
 
 1. Créez une collection.
@@ -77,4 +84,5 @@ Notez que Zotero ne fusionne pas un article avec un rapport. Les documents doive
 Que constatez-vous ?
 
 ---
+
 *notes personnelles*

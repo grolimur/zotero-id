@@ -1,0 +1,189 @@
+[
+	{
+		"_name": "CrossRef Lookup",
+		"_alias": "CrossRef",
+		"_description": "CrossRef Search Engine",
+		"_icon": null,
+		"_hidden": false,
+		"_urlTemplate": "http://crossref.org/openurl?{z:openURL}&pid=zter:zter321",
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"z": "http://www.zotero.org/namespaces/openSearch#",
+			"": "http://a9.com/-/spec/opensearch/1.1/"
+		},
+		"_iconSourceURI": "http://crossref.org/favicon.ico"
+	},
+	{
+		"_name": "swisscovery",
+		"_alias": "swisscovery",
+		"_description": "Search swisscovery",
+		"_icon": "https://swisscovery.slsp.ch/discovery/custom/41SLSP_NETWORK-VU1_UNION/img/library-logo.png",
+		"_hidden": false,
+		"_urlTemplate": "https://swisscovery.slsp.ch/discovery/search?tab=41SLSP_NETWORK&vid=41SLSP_NETWORK:VU1_UNION&query=any,contains,{z:title}&search_scope=DN_and_CI&lang=fr&offset=0",
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"rft": "info:ofi/fmt:kev:mtx:journal",
+			"z": "http://www.zotero.org/namespaces/openSearch#",
+			"": "http://a9.com/-/spec/opensearch/1.1/"
+		}
+	},
+	{
+		"_name": "Renouvaud",
+		"_alias": "Renouvaud",
+		"_description": "Search Renouvaud",
+		"_icon": "https://www.bcu-lausanne.ch/favicon.ico",
+		"_hidden": false,
+		"_urlTemplate": "https://renouvaud.hosted.exlibrisgroup.com/openurl/41BCULIB/41BCULIB_VU1?{z:openURL}",
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"rft": "info:ofi/fmt:kev:mtx:journal",
+			"z": "http://www.zotero.org/namespaces/openSearch#",
+			"": "http://a9.com/-/spec/opensearch/1.1/"
+		}
+	},
+	{
+		"_name": "Swissbib ISBN",
+		"_alias": "Swissbib ISBN",
+		"_description": "Search Swissbib",
+		"_icon": "https://www.swissbib.ch/themes/sbvfrdsingle/images/favicon.ico",
+		"_hidden": false,
+		"_urlTemplate": "https://www.swissbib.ch/Search/Results?lookfor={z:ISBN}",
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"rft": "info:ofi/fmt:kev:mtx:journal",
+			"z": "http://www.zotero.org/namespaces/openSearch#",
+			"": "http://a9.com/-/spec/opensearch/1.1/"
+		}
+	},
+	{
+		"_name": "PubMed DOI",
+		"_alias": "PubMed DOI",
+		"_description": "Search DOI PubMed",
+		"_icon": "https://cdn.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon.png",
+		"_hidden": false,
+		"_urlTemplate": "https://pubmed.ncbi.nlm.nih.gov/?term={z:DOI}",
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"rft": "info:ofi/fmt:kev:mtx:journal",
+			"z": "http://www.zotero.org/namespaces/openSearch#",
+			"": "http://a9.com/-/spec/opensearch/1.1/"
+		}
+	},
+	{
+		"_name": "PubMed (title + author)",
+		"_alias": "PubMed (title + author)",
+		"_description": "Search PubMed (title + author)",
+		"_icon": "https://cdn.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon.png",
+		"_hidden": false,
+		"_urlTemplate": "https://pubmed.ncbi.nlm.nih.gov/?term=({z:title}[title]) AND ({rft:aulast?}[Author])",
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"rft": "info:ofi/fmt:kev:mtx:journal",
+			"z": "http://www.zotero.org/namespaces/openSearch#",
+			"": "http://a9.com/-/spec/opensearch/1.1/"
+		}
+	},
+	{
+		"_name": "Web of Science",
+		"_alias": "WOS",
+		"_description": "Web of Science Search",
+		"_icon": "https://login.webofknowledge.com/error/WOK5/6.25.0.67/images/wok_favicon.ico",
+		"_hidden": false,
+		"_urlTemplate": "http://ws.isiknowledge.com/cps/openurl/service?{z:openURL}",
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"rft": "info:ofi/fmt:kev:mtx:journal",
+			"z": "http://www.zotero.org/namespaces/openSearch#"
+		},
+		"_iconSourceURI": "http://login.webofknowledge.com/error/WOK5/images/wok_favicon.ico"
+	},
+	{
+		"_name": "WOS Citing Articles",
+		"_alias": "WOS Citing Articles",
+		"_description": "Web of Science Citing Articles Search",
+		"_icon": "https://raw.githubusercontent.com/bwiernik/zotero-tools/master/locate_engines_icons/wok_favicon_citing.ico.png",
+		"_hidden": false,
+		"_urlTemplate": "http://ws.isiknowledge.com/cps/openurl/service?svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&svc.citing=yes&{z:openURL}",
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"rft": "info:ofi/fmt:kev:mtx:journal",
+			"z": "http://www.zotero.org/namespaces/openSearch#"
+		}
+	},
+	{
+		"_name": "WOS Related Articles",
+		"_alias": "WOS Related Articles",
+		"_description": "Web of Science Related Articles Search",
+		"_icon": "https://raw.githubusercontent.com/bwiernik/zotero-tools/master/locate_engines_icons/wok_favicon_related.ico.png",
+		"_hidden": false,
+		"_urlTemplate": "http://ws.isiknowledge.com/cps/openurl/service?svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&svc.related=yes&{z:openURL}",
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"rft": "info:ofi/fmt:kev:mtx:journal",
+			"z": "http://www.zotero.org/namespaces/openSearch#"
+		}
+	},
+	{
+		"_name": "Unpaywall",
+		"_alias": "Unpaywall",
+		"_description": "Unpaywall Lookup",
+		"_icon": "https://oadoi.org/static/img/favicon.png",
+		"_hidden": false,
+		"_urlTemplate": "https://oadoi.org/{z:DOI}",
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"z": "http://www.zotero.org/namespaces/openSearch#"
+		}
+	},
+	{
+		"_name": "Scopus",
+		"_alias": "Scopus",
+		"_description": "Search Scopus",
+		"_icon": "https://cdn.elsevier.io/verona/includes/favicons/apple-touch-icon-57x57.png",
+		"_hidden": false,
+		"_urlTemplate": "https://www.scopus.com/search/form.uri?{z:DOI}",
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"z": "http://www.zotero.org/namespaces/openSearch#"
+		}
+	},
+	{
+		"_name": "Semantic Scholar",
+		"_alias": "Semantic Scholar",
+		"_description": "Search Semantic Scholar",
+		"_icon": "https://www.semanticscholar.org/img/favicon.png",
+		"_hidden": false,
+		"_urlTemplate": "https://www.semanticscholar.org/search?q={z:title}",
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"z": "http://www.zotero.org/namespaces/openSearch#"
+		}
+	},
+	{
+		"_name": "DBLP",
+		"_alias": "DBLP",
+		"_description": "Search DBLP",
+		"_icon": "https://dblp.org/img/dblp.icon.192x192.png",
+		"_hidden": false,
+		"_urlTemplate": "https://dblp.uni-trier.de/search?q={z:title}",
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"z": "http://www.zotero.org/namespaces/openSearch#"
+		}
+	},
+	{
+		"_name": "Google Scholar Search",
+		"_alias": "Google Scholar",
+		"_description": "Google Scholar Search",
+		"_icon": null,
+		"_hidden": false,
+		"_urlTemplate": "http://scholar.google.com/scholar?as_q=&as_epq={z:title}&as_occt=title&as_sauthors={rft:aufirst?}+{rft:aulast?}&as_ylo={z:year?}&as_yhi={z:year?}&as_sdt=1.&as_sdtp=on&as_sdtf=&as_sdts=22&",
+		"_urlParams": [],
+		"_urlNamespaces": {
+			"rft": "info:ofi/fmt:kev:mtx:journal",
+			"z": "http://www.zotero.org/namespaces/openSearch#",
+			"": "http://a9.com/-/spec/opensearch/1.1/"
+		},
+		"_iconSourceURI": "http://scholar.google.com/favicon.ico"
+	}
+]

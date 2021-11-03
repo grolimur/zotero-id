@@ -1,14 +1,10 @@
 # À propos de ce document
 
----
-WORK IN PROGRESS
-
----
-
 Ce support de cours a été créé pour le cours sur Zotero dispensé aux étudiant·e·s de 1ère année de la filière Information documentaire (ID) dans le cadre du cours Systèmes d'information documentaires (SIDoc). 
 
+L'obectif de ce cours est non seulement d'expliquer le fonctionnement de Zotero, mais également de préparer les étudiant·e·s à accompagner et aider des utilisateur·trice·s plus tard. 
 
-## Version `0.1RC`
+## Version `0.1RC2`
 
 Vous pouvez consulter les notes de ([versions](versions.md)) pour avoir plus d'informations sur les précédentes versions de ce document.
 
@@ -27,11 +23,10 @@ Ce document s'inspire des supports de cours de la Bibliothèque de l'EPFL et de 
 
 Un grand merci à tou·te·s les contributeur·trice·s !
 
-
 ## Licence `CC BY 4.0`
+
 ![logo-CC-BY](img/cc-by.svg)   
 Ce document est disponible sous la licence suivante  [Creative Commons Paternité 4.0 International](http://creativecommons.org/licenses/by/4.0/deed.fr).   
 
 Les fichiers sources sont sur [https://github.com/grolimur/zotero-id](https://github.com/grolimur/zotero-id).   
 **Sentez libres de les réutiliser et les adapter à vos besoins!**   
-
