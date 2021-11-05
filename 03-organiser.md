@@ -76,9 +76,9 @@ Notez que Zotero ne fusionne pas un article avec un rapport. Les documents doive
 
 ### exercice
 
-1. Créez une collection.
+1. Créez une ou plusieurs collections.
 2. Ajoutez-y quelques références.
-3. Créez une sous-collecion.
+3. Créez une ou plusieurs sous-collections.
 4. Ajoutez-y d'autres références.
 
 Que constatez-vous ?

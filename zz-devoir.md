@@ -14,10 +14,8 @@ Zotfile: [https://github.com/jlegewie/zotfile](https://github.com/jlegewie/zotfi
 
 Zutilo: [GitHub - wshanks/Zutilo: Zotero plugin providing some additional editing features](https://github.com/wshanks/Zutilo)
 
+Pour guider votre analyse, **répondez aux questions de la grille d'analyse** qui se trouve sur SWITCHdrive: [https://cest.la/zid](https://cest.la/zid).
 
+Gardez en tête que l'idée est de faire découvrir le module à vos camarades. Donnez donc toutes les informations qui peuvent leur être utiles pour déterminer si ce module peut les intéresser. 
 
-Pour guider votre analyse, **répondez aux questions de la grille d'analyse** qui se trouve sur SWITChdrive: [https://cest.la/zid](https://cest.la/zid).
-
-Gardez en tête que l'idée est de faire découvrir le module à vos camarades. Donnez donc toutes les informations qui peuvent leur être utiles pour déterminer si ce module peut leur être utile. 
-
-
+**Déposez votre devoir dans l'espace Moodle du cours à l'endroit indiqué en classe !**

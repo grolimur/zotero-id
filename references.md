@@ -12,6 +12,8 @@ MELLIFLUO, Laure, HARDEGGER, Michel et GROLIMUND, Raphaël, 2011. Un style de ci
 
 ORANSKY, Ivan, 2015. Top 10 most highly cited retracted papers. *Retraction Watch* [en ligne]. 28 décembre 2015. [Consulté le 12 décembre 2020]. Consulté à l’adresse: https://retractionwatch.com/the-retraction-watch-leaderboard/top-10-most-highly-cited-retracted-papers/
 
+
+
 ## Autres lectures intéressantes
 
 KARCHER, Sebastian et ZELLE, Rintze, 2015. *Mastering Zotero: a user guide for the Zotero reference manager* [en ligne]. 20 mai 2015. [Consulté le 23 septembre 2016]. Consulté à l’adresse: [https://zotero-manual.github.io/zotero-manual/](https://zotero-manual.github.io/zotero-manual/)
@@ -19,3 +21,13 @@ KARCHER, Sebastian et ZELLE, Rintze, 2015. *Mastering Zotero: a user guide for t
 KRATOCHVÍL, Jiří, 2017. Comparison of the Accuracy of Bibliographical References Generated for Medical Citation Styles by EndNote, Mendeley, RefWorks and Zotero. *The Journal of Academic Librarianship*. 2017. Vol. 43, no. 1, p. 57‑66. DOI [10.1016/j.acalib.2016.09.001](https://doi.org/10.1016/j.acalib.2016.09.001).
 
 PUCKETT, Jason, 2017. *Zotero: a guide for librarians, researchers, and educators*. 2nd edition. Chicago, Illinois: ACRL. ISBN 978-0-8389-8932-6.
+
+
+
+## Ressources utiles
+
+Blog Zotero francophone: [https://zotero.hypotheses.org]([Le blog Zotero francophone](https://zotero.hypotheses.org))
+
+Documentation officielle de Zotero: [https://www.zotero.org/support/](https://www.zotero.org/support/)
+
+Forum Zotero: [https://forums.zotero.org/discussions](https://forums.zotero.org/discussions)

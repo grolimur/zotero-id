@@ -4,7 +4,7 @@ Ce support de cours a été créé pour le cours sur Zotero dispensé aux étudi
 
 L'obectif de ce cours est non seulement d'expliquer le fonctionnement de Zotero, mais également de préparer les étudiant·e·s à accompagner et aider des utilisateur·trice·s plus tard. 
 
-## Version `0.1RC2`
+## Version `0.1`
 
 Vous pouvez consulter les notes de ([versions](versions.md)) pour avoir plus d'informations sur les précédentes versions de ce document.
 
@@ -12,7 +12,7 @@ Vous pouvez consulter les notes de ([versions](versions.md)) pour avoir plus d'i
 
 Cette formation a été créée et est maintenue par l'Infothèque de la HEG. Ont contribué à la présente version ou aux précédentes:   
 
-+ Raphaël Grolimund [raphael.grolimund@hesge.ch](mailto:raphael.grolimund@hesge.ch)  
+Raphaël Grolimund [raphael.grolimund@hesge.ch](mailto:raphael.grolimund@hesge.ch)  
 
 ## Crédits
 
